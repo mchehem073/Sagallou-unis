@@ -1,2 +1,2 @@
 # Sagallou-unis
-Ensemble pour avancer l'avenir 
+Ensemble pour avancer
